@@ -47,6 +47,15 @@ void setup()
 
 void loop()
 {
+  //Allow master to quesy this device and ask if it's the littleBits Controller
+  while(Serial.available() > 0)
+  {
+    if (Serial.read() == '?')
+    {
+      Serial.println("LittleBits-Hue-Controller");
+    }
+  }
+  
   //On/Off Button Debouncing
   on_off_button_current = debounce(on_off_button_last, on_off_button_pin);
   if (on_off_button_current == HIGH && on_off_button_last == LOW)
