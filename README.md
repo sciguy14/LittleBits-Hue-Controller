@@ -34,7 +34,7 @@ Assemble the LittleBits
 * Provide Power to the controller, and connect the Arduino cable to your computer
 * Use the provided Arduino Sketch to program the Arduino Bit (select Arduino Leonardo from the device menu)
 
-Install the Python Preqrequistes
+Install the Python Prerequisites
 --------------------------------
 * Log into (locally or via SSH) the network-connected, always-on linux machine that you'll use (Raspberry Pi is good for this)
 * Install Python 2.7 if don't already have it installed: `sudo apt-get install python2.7`
