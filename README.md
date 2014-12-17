@@ -30,13 +30,13 @@ Step 2: Print the enclosure. Place the front of the enclosure on the panel as sh
 ![Step 2](http://www.jeremyblum.com/wp-content/uploads/2014/12/step2.jpg)
 
 Step 3: Press the four M3 nuts into the four slots on the top cover as shown.
-![Step 3](http://www.jeremyblum.com/wp-content/uploads/2014/12/step3.jpg
+![Step 3](http://www.jeremyblum.com/wp-content/uploads/2014/12/step3.jpg)
 
 Step 4: Place the USB wires into the cutt-out on the rear of the panel as shown.
-![Step 4](http://www.jeremyblum.com/wp-content/uploads/2014/12/step4.jpg
+![Step 4](http://www.jeremyblum.com/wp-content/uploads/2014/12/step4.jpg)
 
 Step 5: Screw the bolts into the nuts and apply a velcro backer as shown.
-![Step 5](http://www.jeremyblum.com/wp-content/uploads/2014/12/step5.jpg
+![Step 5](http://www.jeremyblum.com/wp-content/uploads/2014/12/step5.jpg)
 
 Program the Arduino Bit
 -------------------------------
