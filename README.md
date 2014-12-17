@@ -66,7 +66,7 @@ Obtain and Setup the Server Script
 
 More Info
 =========
-* [Project Post on my Blog](http://www.jeremyblum.com/2014/12/16/littlebits-hue-lighting-controller)
+* [Project Post on my Blog](http://www.jeremyblum.com/2014/12/17/littlebits-hue-lighting-controller)
 * [LittleBits Project Page](http://littlebits.cc/projects/littlebits-hue-lighting-controller)
 * [Thingiverse Project Page](http://www.thingiverse.com/thing:596186)
 * [YouTube Demo Video](https://www.youtube.com/watch?v=p_GHpPhFpdo)
