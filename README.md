@@ -62,7 +62,7 @@ Obtain and Setup the Server Script
 * Execute the script in setup mode and follow the instructions to automatically setup the system: `./LittleBits-Hue-Controller.py -s`. The output will look something like this:
 ![Setup Screenshot](http://www.jeremyblum.com/wp-content/uploads/2014/12/setup.png)
 * That's it! The handler script will now automatically run in the background at boot. You can launch it immediately to observe its output as you toggle the controller, by running: `./LittleBits-Hue-Controller.py`. The screenshot shows the behavior as I adjust brightness, color, and state via the control pad. You can also see it automatically recover when the control pad is unplugged and plugged back in:
-![Usage Screenshot](http://www.jeremyblum.com/wp-content/uploads/2014/12/usage.png
+![Usage Screenshot](http://www.jeremyblum.com/wp-content/uploads/2014/12/usage.png)
 
 More Info
 =========
