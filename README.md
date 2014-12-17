@@ -24,19 +24,19 @@ What you'll need
 3D Print the Enclosure and Assemble the LittleBits
 -----------------------
 Step 1: Place the Bits on the backer board as shown. Print the button/dial covers. Slightly heat the button/dial covers and press them onto the buttons and covers as shown.
-![Step 1](/mechanical/assembly/step1.JPG)
+![Step 1](https://github.com/sciguy14/LittleBits-Hue-Controller/mechanical/assembly/step1.JPG)
 
 Step 2: Print the enclosure. Place the front of the enclosure on the panel as shown.
-![Step 2](/mechanical/assembly/step2.JPG)
+![Step 2](https://github.com/sciguy14/LittleBits-Hue-Controller/mechanical/assembly/step2.JPG)
 
 Step 3: Press the four M3 nuts into the four slots on the top cover as shown.
-![Step 3](/mechanical/assembly/step3.JPG)
+![Step 3](https://github.com/sciguy14/LittleBits-Hue-Controller/mechanical/assembly/step3.JPG)
 
 Step 4: Place the USB wires into the cutt-out on the rear of the panel as shown.
-![Step 4](/mechanical/assembly/step4.JPG)
+![Step 4](https://github.com/sciguy14/LittleBits-Hue-Controller/mechanical/assembly/step4.JPG)
 
 Step 5: Screw the bolts into the nuts and apply a velcro backer as shown.
-![Step 5](/mechanical/assembly/step5.JPG)
+![Step 5](https://github.com/sciguy14/LittleBits-Hue-Controller/mechanical/assembly/step5.JPG)
 
 Program the Arduino Bit
 -------------------------------
@@ -60,9 +60,9 @@ Obtain and Setup the Server Script
 * Navigate to the server script directory: `cd LittleBits-Hue-Controller/server`
 * Ensure the script is executable: `chmod 755 LittleBits-Hue-Controller.py`
 * Execute the script in setup mode and follow the instructions to automatically setup the system: `./LittleBits-Hue-Controller.py -s`. The output will look something like this:
-![Setup Screenshot](/server/screenshots/setup.PNG)
+![Setup Screenshot](https://github.com/sciguy14/LittleBits-Hue-Controller/server/screenshots/setup.PNG)
 * That's it! The handler script will now automatically run in the background at boot. You can launch it immediately to observe its output as you toggle the controller, by running: `./LittleBits-Hue-Controller.py`. The screenshot shows the behavior as I adjust brightness, color, and state via the control pad. You can also see it automatically recover when the control pad is unplugged and plugged back in:
-![Usage Screenshot](/server/screenshots/usage.PNG)
+![Usage Screenshot](https://github.com/sciguy14/LittleBits-Hue-Controller/server/screenshots/usage.PNG)
 
 More Info
 =========
